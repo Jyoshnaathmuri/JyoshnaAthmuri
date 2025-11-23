@@ -49,29 +49,29 @@ I enjoy building intelligent automation workflows, designing scalable data pipel
 
 ## 📚 **Highlighted Academic Projects**
 
-### 🔹 **Smart Electricity Microservices (Java) – KF7014**
+### 🔹 **Smart Electricity Microservices (Java) **
 - Designed multi-service architecture with REST APIs  
 - Citizen → Provider → Smart City workflow  
 - Data persistence + unit testing  
 - Full architecture documentation  
 
-### 🔹 **Big Data Crime Analysis – KF7032**
+### 🔹 **Big Data Crime Analysis **
 - Spark-based processing of 19M+ UK crime records  
 - Violent crime trends, firearm incident ranking, drug-weapon correlation  
 - Visual insights + statistical evaluation  
 - Literature review on crime analytics  
 
-### 🔹 **Deep Learning for Medical Diagnosis – KV7006**
+### 🔹 **Deep Learning for Medical Diagnosis**
 - CNN / Transfer Learning model  
 - Preprocessing, augmentation, benchmarking  
 - Performance comparison using AUC, F1, Precision/Recall  
 
-### 🔹 **WLAN Design & Simulation – KF7031**
+### 🔹 **WLAN Design & Simulation **
 - 2.4 GHz 802.11n WLAN deployment  
 - AP planning, channel reuse, security (WPA3-Enterprise)  
 - OMNeT++ throughput vs station count simulation  
 
-### 🔹 **Research Methods & Project Management – KF7028**
+### 🔹 **Research Methods & Project Management **
 - Critical literature review  
 - Project planning, risk analysis  
 - Experiments + data analysis  
@@ -82,7 +82,7 @@ I enjoy building intelligent automation workflows, designing scalable data pipel
 
 ## 📫 **Contact Me**
 
-- Email: **jyoshnaathmuri800@gmail.com**  
+- Email: **athmurijyoshna800@gmail.com**  
 - GitHub: **github.com/jyoshnaathmuri**  
 - Open to: RPA roles, ML roles, Cloud/Big Data roles, Software Engineering roles, Analyst roles.
 
